@@ -27,6 +27,6 @@ def retrieve_relevant_faq(user_query, threshold=0.45):
     print(f"[RAG Match] Score: {best_score:.2f} | Query: {user_query} | Matched: {faq_questions[best_idx]}")
 
     if best_score < threshold:
-        return "No relevant FAQ found for your question. Our team will get back to you soon.", "—"
+        return None, None  # Force fallback to Tavily/SERP
 
     return faq_questions[best_idx], faq_answers[best_idx]
