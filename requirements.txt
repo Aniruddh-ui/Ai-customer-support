@@ -1,0 +1,7 @@
+gradio
+gtts
+speechrecognition
+requests
+numpy
+pandas
+

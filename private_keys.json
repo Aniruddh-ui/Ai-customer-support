@@ -1,0 +1,14 @@
+{
+    "My Faq Agent": {
+        "identity_key": "b8c67f905c860ac9d60e61fc2004d9078a45bcf5af6c3c1270f5ab4deb61d7bc",
+        "wallet_key": "wPgeOBphvdzByPj0UfY9F1dkVY/BIulOEEydevnPE+I="
+    },
+    "MainAgent": {
+        "identity_key": "6162bf82d2581822e4bc699f6f71c5fe882b3da669a4ec996309e0e158e5baa2",
+        "wallet_key": "a8S8Cy6treb9msV0YQKUQiiabLUOsbegO1wx/1zXsHY="
+    },
+    "ClientAgent": {
+        "identity_key": "30830cda6394d40ae37db92c9494e457d9281a26476a3ef8c27885ac7c0fba58",
+        "wallet_key": "2gZUjxjjOweKzga0xHXvATsWMwF8igD+PjUtEqJGdug="
+    }
+}

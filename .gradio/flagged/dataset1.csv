@@ -1,0 +1,2 @@
+Customer Query,🗂️ Detected Issue Category,😊 Sentiment,📄 Closest FAQ Question,📘 FAQ Answer,🤖 AI Response (via LLaMA + Groq),timestamp
+i want to cancel my order!,Order Cancellation,Neutral,How do I cancel an order?,"Orders can be cancelled from your account before they are shipped. Once shipped, cancellation is not possible.",Error generating response from Groq: 'choices',2025-07-02 12:42:32.678834
